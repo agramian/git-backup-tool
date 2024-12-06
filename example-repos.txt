@@ -1,0 +1,2 @@
+https://github.com/example/repo1.git
+ssh://git@github.com:/example/repo2.git
